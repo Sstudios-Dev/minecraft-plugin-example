@@ -6,6 +6,7 @@ In order to try this out you need the following software to be installed on your
 
 * Java Development Kit [17](https://www.oracle.com/java/technologies/downloads/).
 * [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+* [IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/download/download-thanks.html?platform=windows&code=IIC)
 
 ## Getting Started
 
