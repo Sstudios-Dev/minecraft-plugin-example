@@ -1,0 +1,10 @@
+name: plugin-example
+version: '${project.version}'
+main: github.pluginexample.Plugin_example
+api-version: '1.19'
+
+commands:
+  diamon:
+    description: Gives a diamond to the player who executes the command
+    usage: /diamon
+    permission: example.diamon
