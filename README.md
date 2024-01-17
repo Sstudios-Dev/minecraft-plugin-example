@@ -19,3 +19,6 @@ This project uses [Maven](https://maven.apache.org/) for building. So on your co
 ````bash
 mvn package
 ```` 
+
+## Warning
+This plugin template is very basic and is for beginner minecraft plugin creators using the spigot api, soon there will be the template for paper and velocity
