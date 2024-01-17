@@ -4,7 +4,7 @@ A sample plugin designed for the Spigot Minecraft server, offering a template fo
 ## Requirements
 In order to try this out you need the following software to be installed on your machine:
 
-* Java version 8 or higher (e.g., [OpenJDK](https://openjdk.java.net/install/)) is a prerequisite.
+* Java Development Kit [17](https://www.oracle.com/java/technologies/downloads/).
 * [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ## Getting Started
